@@ -7,8 +7,7 @@
 		"dev": "nodemon --watch src -e css,ejs,js src/index.js",
 		"initdb": "node tools/initdb.js",
 		"lint": "eslint --fix ./",
-		"test": "echo \"Error: no test specified\" && exit 1",
-		"start": "node src/index.js"
+		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"keywords": [],
 	"author": "David Neal <david@reverentgeek.com> (https://reverentgeek.com)",
